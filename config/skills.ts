@@ -13,7 +13,6 @@ import {
   SiStyledcomponents,
   SiGhost,
   SiDocker,
-  SiGooglecloud,
   SiCpanel,
   SiRancher,
   SiGitlab,
