@@ -82,8 +82,8 @@ export const Experiences: {
     position: 'Full Stack Developer',
     duration: 'Mar 2016 - Jul 2020',
     logo: {
-      light: '/worked_at_logos/Rikkeisoft/Rikkeisoft_logo.png',
-      dark: '/worked_at_logos/Rikkeisoft/Rikkeisoft_logo.png',
+      light: '/worked_at_logos/rikkeisoft/rikkeisoft_logo.png',
+      dark: '/worked_at_logos/rikkeisoft/rikkeisoft_logo.png',
     },
     roles: [
       <>
